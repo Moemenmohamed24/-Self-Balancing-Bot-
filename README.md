@@ -1,4 +1,5 @@
 Self Balancing robot 🤖
+
 Hardware 🛠️
 MPU6050 (For tilt angle)
 L293D (Motors Driver)
@@ -8,5 +9,6 @@ ESP32-WROOM
 Boost Converters
 Lithium Battery
 Electrolytic Capacitor
+
 Software 💾
 Used a PID controller with the PID Library to control the bot.
