@@ -1,4 +1,5 @@
-🤖 Self-Balancing Robot
+🤖 College Project: Self-Balancing Robot
+
 🛠️ Hardware Components:
 MPU6050 – For tilt angle measurement (gyroscope + accelerometer).
 
