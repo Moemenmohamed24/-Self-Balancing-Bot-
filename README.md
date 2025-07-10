@@ -1,14 +1,20 @@
-Self Balancing robot 🤖
+🤖 Self-Balancing Robot
+🛠️ Hardware Components:
+MPU6050 – For tilt angle measurement (gyroscope + accelerometer).
 
-Hardware 🛠️
-MPU6050 (For tilt angle)
-L293D (Motors Driver)
-2 × DC Motors
-ESP32-WROOM
-2 × Dot Matrix Displays
-Boost Converters
-Lithium Battery
-Electrolytic Capacitor
+L293D Motor Driver – To control the two DC motors.
 
-Software 💾
-Used a PID controller with the PID Library to control the bot.
+2 × DC Motors – Used for balance and movement.
+
+ESP32-WROOM – Main microcontroller for processing and control.
+
+2 × Dot Matrix Displays – For visual feedback or expression (e.g., eyes or status).
+
+Boost Converters – To stabilize voltage levels for different components.
+
+Lithium Battery – Power source.
+
+Electrolytic Capacitor – For voltage smoothing and noise reduction.
+
+💾 Software Implementation:
+Implemented a PID controller using the PID library to maintain balance by adjusting motor speed based on tilt angle feedback from the MPU6050.
