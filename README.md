@@ -25,8 +25,7 @@ Implemented a PID controller using the PID library to maintain balance by adjust
 
 
 
+https://github.com/user-attachments/assets/615e8600-69a5-47ae-b2bc-56f41122973a
 
-
-https://github.com/user-attachments/assets/05bc4dd1-295e-4237-beb8-de342f0bac08
 
 
